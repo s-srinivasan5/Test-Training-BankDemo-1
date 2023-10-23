@@ -87,6 +87,8 @@
 	</mffilelist>
 	<!-- Copypath enabled output locations -->
 	<mffilelist id="output.copybook.enabled.locations">
+		<path type="copybook" name="${mf.projectLocation.BankDemo}/loadlib/bms"/>
+		<path type="copybook" name="${mf.projectLocation.BankDemo}/src/copybook/bms"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}"/>
 	</mffilelist>
 	<!--  ***************************  -->

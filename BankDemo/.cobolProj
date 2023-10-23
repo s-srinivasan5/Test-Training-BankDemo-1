@@ -190,6 +190,7 @@
          <folder compile="true" path="src/PLI" xsi:type="cobolFolder"/>
          <folder compile="true" path="src/cbl" xsi:type="cobolFolder"/>
          <folder compile="true" path="src/bms" xsi:type="cobolFolder"/>
+         <folder compile="true" path="src" xsi:type="cobolFolder"/>
          <folder compile="true" path="src/jcl" xsi:type="cobolFolder"/>
          <folder compile="true" path="loadlib/cobol" xsi:type="cobolFolder"/>
       </folders>

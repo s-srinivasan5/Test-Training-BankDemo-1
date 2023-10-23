@@ -5,7 +5,7 @@
     <x:directive handler="project.bmsSettings" id="sdf" name="/IGNORE"/>
     <x:directive handler="project.bmsSettings" id="currencychar" name="/CS=$"/>
     <x:directive handler="project.bmsSettings" id="decimalchar" name="/DP=."/>
-    <x:directive handler="project.bmsSettings" id="coboldir" name="/COBOL=C:\Test-Training-BankDemo-1-Local-Project\BankDemo\src\copybook\bms"/>
+    <x:directive handler="project.bmsSettings" id="coboldir" name="/COBOL=src/copybook/bms"/>
     <x:directive handler="project.bmsSettings" id="map" name="/SYSPARM=MAP"/>
-    <x:directive handler="project.bmsSettings" id="targetdir" name="/BINARY=C:\Test-Training-BankDemo-1-Local-Project\BankDemo\loadlib\bms"/>
+    <x:directive handler="project.bmsSettings" id="targetdir" name="/BINARY=loadlib/bms"/>
 </x:dirset>
