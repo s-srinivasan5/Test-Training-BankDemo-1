@@ -1,5 +1,5 @@
 000100*****************************************************************
-000200*                                                               *
+000200*   TEST EDIT REMPOVING USER ECLIPSE                            *
 000300*   Copyright (C) 1998-2010 Micro Focus. All Rights Reserved.   *
 000400*   This demonstration program is provided for use by users     *
 000500*   of Micro Focus products and may be used, modified and       *

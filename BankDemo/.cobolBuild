@@ -87,9 +87,9 @@
 	</mffilelist>
 	<!-- Copypath enabled output locations -->
 	<mffilelist id="output.copybook.enabled.locations">
-		<path type="copybook" name="${mf.projectLocation.BankDemo}/loadlib/bms"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/src/copybook/bms"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}"/>
+		<path type="copybook" name="${mf.projectLocation.BankDemo}/loadlib/bms"/>
 	</mffilelist>
 	<!--  ***************************  -->
 	<!--  * BMS compiler directives *  -->
@@ -139,13 +139,11 @@
 	<!-- COBOL copybook locations -->
 	<mffilelist id="cobol.copybook.locations">
 		<path type="copybook" name="${mf.projectLocation.BankDemo}"/>
-		<path type="copybook" name="${mf.projectLocation.BankDemo}/listing"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/loadlib"/>
-		<path type="copybook" name="${mf.projectLocation.BankDemo}/loadlib/bms"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/src/copybook"/>
-		<path type="copybook" name="${mf.projectLocation.BankDemo}/src/copybook/bms"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/src"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/src/PLI"/>
+		<path type="copybook" name="${mf.projectLocation.BankDemo}/src/copybook/bms"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/src/bms"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/src/cbl"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/src/jcl"/>
@@ -153,6 +151,7 @@
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/system/Data"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/system/logs"/>
 		<path type="copybook" name="${mf.projectLocation.BankDemo}/system/rdef"/>
+		<path type="copybook" name="${mf.projectLocation.BankDemo}/loadlib/bms"/>
 	</mffilelist>
 	<!--  ********************************  -->
 	<!--  * Source File Compile and Link *  -->

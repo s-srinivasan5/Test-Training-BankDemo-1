@@ -3,13 +3,11 @@
    <settings xsi:type="projectSettingsContainer">
       <copybook-paths xsi:type="copybookPathsSettings">
          <path enabled="true" name="/BankDemo" type="mfpath"/>
-         <path enabled="true" name="/BankDemo/listing" type="mfpath"/>
          <path enabled="true" name="/BankDemo/loadlib" type="mfpath"/>
-         <path enabled="true" name="/BankDemo/loadlib/bms" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src/copybook" type="mfpath"/>
-         <path enabled="true" name="/BankDemo/src/copybook/bms" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src/PLI" type="mfpath"/>
+         <path enabled="true" name="/BankDemo/src/copybook/bms" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src/bms" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src/cbl" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src/jcl" type="mfpath"/>
@@ -17,23 +15,23 @@
          <path enabled="true" name="/BankDemo/system/Data" type="mfpath"/>
          <path enabled="true" name="/BankDemo/system/logs" type="mfpath"/>
          <path enabled="true" name="/BankDemo/system/rdef" type="mfpath"/>
+         <path enabled="true" name="/BankDemo/loadlib/bms" type="mfpath"/>
       </copybook-paths>
       <build-precedence-paths xsi:type="buildPrecedenceSettings">
          <path enabled="true" name="/BankDemo" type="mfpath"/>
-         <path enabled="true" name="/BankDemo/listing" type="mfpath"/>
          <path enabled="true" name="/BankDemo/loadlib" type="mfpath"/>
-         <path enabled="true" name="/BankDemo/loadlib/bms" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src/PLI" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src/bms" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src/cbl" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src/copybook" type="mfpath"/>
-         <path enabled="true" name="/BankDemo/src/copybook/bms" type="mfpath"/>
          <path enabled="true" name="/BankDemo/src/jcl" type="mfpath"/>
          <path enabled="true" name="/BankDemo/system" type="mfpath"/>
          <path enabled="true" name="/BankDemo/system/Data" type="mfpath"/>
          <path enabled="true" name="/BankDemo/system/logs" type="mfpath"/>
          <path enabled="true" name="/BankDemo/system/rdef" type="mfpath"/>
+         <path enabled="true" name="/BankDemo/loadlib/bms" type="mfpath"/>
+         <path enabled="true" name="/BankDemo/src/copybook/bms" type="mfpath"/>
       </build-precedence-paths>
       <configurations default="New Configuration" linkedWith="2017" xsi:type="buildConfigurationsContainer">
          <configuration description="New Configuration" type="all_dll" xsi:type="cobolBuildConfiguration">
